@@ -1,0 +1,73 @@
+.oddquotesleft{
+	background:#ff4d4d;
+	font-family:Sans-serif;
+	font-size:20px;
+}
+.evenquotesleft{
+	background:#c44dff;
+	font-family:arial;
+	font-size:20px;
+}
+.oddquotesright{
+	background:#00cc00;
+	font-family:sans-serif;
+	font-size:20px;
+}
+.evenquotesright{
+	background:#4d94ff;
+	font-family:arial;
+	font-size:20px;
+}
+.left{
+	background:#ff4d4d;
+	float:left;
+	margin:0 0 0 10;
+	padding:0 5 0 5;
+	text-align:center;
+	width:46%;
+}
+.right{
+	background:#4d94ff;
+	float:left;
+	margin:0 10 0 0;
+	padding:0 5 0 5;
+	text-align:center;
+	width:46%;
+}
+#first{
+	font-size:28px;
+	font-variant:small-caps;
+}
+#second{
+	font-weight:bold;
+}
+#thrid{
+	font-style:italic;
+	font-size:25px;
+	text-decoration:underline;
+}
+#fourth{
+	text-transform:Capitalize;
+}
+#fifth{
+	font-size:26px;
+	text-decoration:underline;	
+}
+#sixth{
+	text-transform:capitalize;
+}
+#seventh{
+	font-size:24px;
+	text-transform:uppercase;
+}
+#eighth{
+    font-style:italic;
+    font-size:21px;
+}
+#ninth{
+    font-variant:small-caps;
+    font-size: 21px;
+}
+#tenth{
+	font-weight:bold;
+}
