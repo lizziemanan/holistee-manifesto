@@ -61,13 +61,17 @@
 	text-transform:uppercase;
 }
 #eighth{
-    font-style:italic;
-    font-size:21px;
+	font-size:24px;
+}
+#eighthspan{
+	font-style:italic;
+	font-size: 24px;
 }
 #ninth{
     font-variant:small-caps;
-    font-size: 21px;
+    font-size: 23px;
 }
 #tenth{
 	font-weight:bold;
+	font-size: 24px;
 }
